@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently learning building stuff.
+- 🔭 I’m currently learning and building stuff.
+- High experienced in Web Development.
+- Well-versed in Data Structures and Algorithms.
 - 🌱 CS 2023 undergrad from IIT Dharwad
 - 🌱 I'm currently working as a Software Engineer
 - 👯 I’m looking to collaborate on Github
