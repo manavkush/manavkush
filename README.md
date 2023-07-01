@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I'm a Software Engineer working at Amuse Labs.\
-🎓 &nbsp;I've done a B.Tech in CS from IIT Dharwad.\
+🎓 &nbsp;I'm a &apst;23 CS grad from IIT Dharwad.\
 🌱 &nbsp;I'm working on always improving myself.\
 ✍️ &nbsp;I've worked on multiple technologies. Currently in love with NextJs.\
 💬 &nbsp;Feel free to reach out to me for any jobs, suggestions, or just for some interesting discussion.\
