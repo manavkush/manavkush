@@ -36,7 +36,7 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=manavkush)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=manavkush&theme=dark&border_radius=5)](https://git.io/streak-stats)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
