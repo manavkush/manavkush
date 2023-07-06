@@ -34,6 +34,10 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=manavkush)](https://git.io/streak-stats)
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -41,7 +45,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=manavkush&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manavkush&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=manavkush)](https://git.io/streak-stats)
+
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
