@@ -1,4 +1,4 @@
-<h2>Hey there! I'm Manav</h2>
+<h2>Hey! I'm Manav</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Manav -->
 
