@@ -10,8 +10,8 @@
 ✍️ &nbsp;I've worked on multiple technologies. Currently building my portfolio with NextJs.\
 💬 &nbsp;Feel free to reach out to me for any jobs, suggestions, or just for discussing about our Vim configs.\
 ✉️ &nbsp;You can shoot me an email at <b>manavkush@gmail.com</b> ! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Resume]() for more details about me. I'm open to feedback and suggestions!
-🌐 &nbsp; Checkout my portfolio [Here](https://manavkush-portfolio.vercel.app/)
+📄 &nbsp;Please have a look at my [Resume]() for more details about me. I'm open to feedback and suggestions! \
+🌐 &nbsp; Checkout my portfolio [Here](https://manavkush-portfolio.vercel.app/) \
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/manavkush/profile/master/assets/Night-Coding.gif" align="right"/>
 
