@@ -6,7 +6,8 @@
 
 💡 &nbsp;I'm a Software Engineer working at Amuse Labs.\
 🎓 &nbsp;I'm a '23 CS grad from IIT Dharwad.\
-🌱 &nbsp;I'm currently learning Golang and Svelte. I'm also making a home server for my own personal cloud storage.\
+🌱 &nbsp;I'm currently learning Golang and Svelte. 
+👨🏻‍💻 &nbsp;Recently made a home server for my own personal cloud storage.\
 🌐 &nbsp; Checkout my portfolio [Here](https://manavkush-portfolio.vercel.app/) \
 💬 &nbsp;Feel free to reach out to me for any jobs, suggestions, or just for discussing about our Vim configs.\
 ✉️ &nbsp;You can shoot me an email at <b>manavkush@gmail.com</b> ! I'll try to respond as soon as I can.\
