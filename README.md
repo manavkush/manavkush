@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I'm a Software Engineer working at Amuse Labs.\
+💡 &nbsp;I'm a Software Engineer at Zepto.\
 🎓 &nbsp;I'm a '23 CS grad from IIT Dharwad.\
 🌱 &nbsp;I'm currently building with Golang. Diving deep into Microservices. \
 👨🏻‍💻 &nbsp;Recently made a home server for my own personal cloud storage.\
